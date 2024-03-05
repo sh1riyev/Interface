@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D2D85FF2-FFCD-4F5A-BEDD-11D558DB183D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice-Interface-Services/Program.cs">
+    <Files>
+      <File FileName="Practice-Interface-Services/Program.cs" Line="7" Column="35" />
+      <File FileName="Practice-Interface-Services/Services/EmployeeService.cs" Line="9" Column="29" />
+      <File FileName="Practice-Interface-Services/Controllers/EmployeeController.cs" Line="66" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice-Interface-Services" expanded="True">
+            <Node name="Practice-Interface-Services" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Practice-Interface-Services PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

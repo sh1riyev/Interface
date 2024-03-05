@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/bin/Debug/net6.0/Practice-Interface-Services
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/bin/Debug/net6.0/Practice-Interface-Services.deps.json
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/bin/Debug/net6.0/Practice-Interface-Services.runtimeconfig.json
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/bin/Debug/net6.0/Practice-Interface-Services.dll
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/bin/Debug/net6.0/Practice-Interface-Services.pdb
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.dll
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/refint/Practice-Interface-Services.dll
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.pdb
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/Practice-Interface-Services.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Practice-Interface-Services/Practice-Interface-Services/obj/Debug/net6.0/ref/Practice-Interface-Services.dll
